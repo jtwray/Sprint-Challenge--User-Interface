@@ -169,7 +169,8 @@ p {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 20px 0;
+    margin-top: 20px;
+    margin-bottom: 30px;
 }
 
 .header nav a {
@@ -178,6 +179,8 @@ p {
     color: black;
     align-content: space-between;
     margin-top: 27px;
+    margin-right: 20px;
+    font-weight: 500;
 }
 
 .top-content {
@@ -292,4 +295,39 @@ footer nav a {
 
 .box10 {
     background: dodgerblue;
+}
+
+.topcontent {
+    margin: 20px;
+}
+
+.topgroup {
+    display: flex;
+    margin: 10px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.topgroup div {
+    border-bottom: 1px dashed black;
+    width: 48%;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+button {
+    border-radius: 10px;
+    border: 1px solid black;
+    border-top: 2px solid black;
+    margin: 10px 5px;
+    padding: 5px 20px;
+}
+
+.bottomgroup {
+    margin: 20px;
+}
+
+.topcontent {
+    border-bottom: 1px dashed black;
+    padding-bottom: 10px;
 }
