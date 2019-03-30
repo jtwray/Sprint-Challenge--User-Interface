@@ -34,13 +34,28 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+    I would define the term 'semantic' as ' having meaning'.
+    Html is a hypertext markup language one of three main launguages used in the creation of websites for the internet. Therefore i would define 'semantic html' to the following cohort as hypertext markup language with meaning thats name clearly defines its purpose to the user and the browser.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+    Block introduces a line break after every element
+    block also allows the definition of additional height and width.
+
+    Inline  doesnt introduce the linebreak and it only takes up as much space as necessary for the item to be displayed.
+    Inline doesnt accept a height or width parameter. Its as wide and as tall as it has to be in order to be displayed and thats it.
 
 3. What are the 4 areas of the box model?
 
+    Four areas of the box model include the content, padding, border and margin
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+    cross axis
+
 5. Explain why git is valuable to a team of developers.
+
+    Git allows everybody on the team to be one the same page at all times. IT allows people to work from different locations seamlessly. It allows you to branch off a copy of the main project to try something without breaking the whole peoject while you work on it. WHen fninished it can be merged back into the main project. Git allows you to go back to when the project worked if it breaks because of a new change. Git also allows you to save progress as you go which might come in handy later on another project. You can reuse your previous code and structures. Finially git allows for a main central version of truth when talking about or working on the project that everyone can see and refer to and allows discussion about features of the project. 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
